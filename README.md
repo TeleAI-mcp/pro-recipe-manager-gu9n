@@ -1,2 +1,3 @@
-# pro-recipe-manager-gu9n
-Automated issue comment bot repository
+# Pro Recipe Manager Gu9N
+
+Automated issue comment bot repository.
